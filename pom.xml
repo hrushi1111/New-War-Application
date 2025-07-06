@@ -4,7 +4,7 @@
   <groupId>techworldwithmurali</groupId>
   <artifactId>web-application</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>2.0-SNAPSHOT</version>
   <name>web-application Maven Webapps</name>
   <url>http://maven.apache.org</url>
   <dependencies>
